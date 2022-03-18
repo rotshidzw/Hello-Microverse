@@ -1,21 +1,17 @@
-# Hello-microverse
+
 
 ![](https://img.shields.io/badge/Microverse-blueviolet)
+# Hello-microverse
 
-# Project Name
 
-> Description the project.
+>In this project, i will set up a "Hello-Microverse" repository
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- html & css
+- viasual studio code 
 
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
 
 
 ## Getting Started
@@ -28,15 +24,9 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
+
 ### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
+Use git clone <filename> to clone the repository.
 
 
 
@@ -44,21 +34,16 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@rotshidzw](https://github.com/rotshidzw)
+- Twitter: [@footballlz](https://twitter.com/footballlz)
+- LinkedIn: [Rochidzwa Chester](https://www.linkedin.com/in/rochidzwa-chester-8062b6211/)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/rotshidzw/Hello-microverse/issues).
 
 ## Show your support
 
@@ -66,10 +51,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
+-https://github.com/JauJau088
+-https://github.com/chelmerrox
 ## 📝 License
 
 This project is [MIT](./MIT.md) licensed.
